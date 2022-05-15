@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dayllan Alho
 - 👀 I’m interested in programação e liderança
-- 🌱 I’m currently learning gitHurb
+- 🌱 I’m currently learning gitHub
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me por meio do instagram: @souzadayllan
 
