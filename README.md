@@ -1,10 +1,2 @@
-- 👋 Hi, I’m Dayllan Alho
-- 👀 I’m interested in programação e liderança
-- 🌱 I’m currently learning gitHub
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me por meio do instagram: @souzadayllan
-
-<!---f
-DayGeoComputer/DayGeoComputer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, eu sou Dayllan Alho. Neste repositório você encontrará alguns projetos e resoluções de problemas utilizando algumas ferramentas.
+- Utilizo este reposositório para me desafiar a compreender da melhor forma algumas tecnologias e instrumentos disponíveis na internet.
