@@ -1,0 +1,22 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <h1>Calcule as médias</h1><br>
+        Coloque os valores e posteriormente
+        clique no botão para obter as médias desejadas.<br>
+        <input type="number" placeholder="número 1" id="n1"><br>
+        <input type="number" placeholder="número 2" id="n2"><br>
+        <input type="number" placeholder="número 3" id="n3"><br><br>
+        <button onclick="calcular()"> Obtenha as médias</button>
+        <script>
+        function calcular (){
+            var n1 = document.getElementById("n1").value
+            var n2 = document.getElementById("n2").value
+            var n3 = document.getElementById("n3").value
+        
+        var media = (number (n1) + number(n2) + number(n3)/3);
+        alert("A média dos 3 valores é:" + media)}
+    </script>
+    </body>
+</html>
