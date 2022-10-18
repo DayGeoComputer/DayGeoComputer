@@ -1,2 +1,2 @@
 - 👋 Olá, eu sou Dayllan Alho. Neste repositório você encontrará alguns projetos e resoluções de problemas utilizando algumas ferramentas.
-- Utilizo este reposositório para me desafiar a compreender da melhor forma algumas tecnologias e instrumentos disponíveis na internet.
+- Utilizo este repositório para me desafiar a compreender da melhor forma algumas tecnologias e instrumentos disponíveis na internet.
